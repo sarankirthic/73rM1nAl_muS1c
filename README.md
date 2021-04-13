@@ -1,4 +1,4 @@
-# 73RM1NAl_muS1c
+# 73RM1nAl_muS1c
 
 A simple light weight music player with youtube downloader in terminal.
 
