@@ -1,5 +1,5 @@
 from playsound import playsound
+import music
 
-PATH =  
-for file in PATH
-playsound('/home/saran/Opera/one.mp3')
+for file in PATH:
+	print(file)
